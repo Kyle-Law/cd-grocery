@@ -46,7 +46,6 @@ const App = () => {
           </ul>
         </section>
         <section className="right">
-          <h3>Items Here</h3>
           <Carousel breakPoints={breakPoints}>
             {carouItems.map((s) => (
               <CarouItem>{s}</CarouItem>
