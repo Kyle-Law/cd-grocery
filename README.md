@@ -3,11 +3,10 @@
 > A simple web app for a grocery store.
 
 <!-- - Inspired by [this tutorial video](https://www.youtube.com/watch?v=F2JCjVSZlG0) -->
-<!--
 
 ## Snapshots
 
-![image](https://user-images.githubusercontent.com/55923773/87842309-1f33ba00-c8de-11ea-8dd8-86651d4376d0.png) -->
+![image](https://user-images.githubusercontent.com/55923773/87854789-d49a5800-c946-11ea-814e-003666feb012.png)
 
 ## Key Concepts
 
