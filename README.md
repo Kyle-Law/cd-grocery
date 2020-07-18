@@ -1,4 +1,4 @@
-# React Quiz
+# CD Grocery
 
 > A simple web app for a grocery store.
 
@@ -7,10 +7,6 @@
 ## Snapshots
 
 ![image](https://user-images.githubusercontent.com/55923773/87854789-d49a5800-c946-11ea-814e-003666feb012.png)
-
-## Key Concepts
-
-- React
 
 ## Built with
 
