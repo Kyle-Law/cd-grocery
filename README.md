@@ -6,7 +6,7 @@
 
 [Live Access](https://kyle-law.github.io/cd-grocery/)
 
-![image](https://user-images.githubusercontent.com/55923773/87854789-d49a5800-c946-11ea-814e-003666feb012.png)
+![image](https://user-images.githubusercontent.com/55923773/87879457-83a96300-ca1d-11ea-9fc5-4f0f194c6858.png)
 
 ## Built with
 
